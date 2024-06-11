@@ -9,3 +9,7 @@
 7. git commit -m "message" -> Records changes to the repository with a brief message describing the changes.
 8. git log -> Displays a history of commits
 9. git checkout [branch-name / hash-code] -> Switch to different branch.
+10. git branch -> list all the branches
+11. git branch [branch name] -> create a new branch
+12. git checkout -b [branch name] -> create new branch and switch to that new branch
+13. git merge [branch name] -> combines changes from another branch to current branch
